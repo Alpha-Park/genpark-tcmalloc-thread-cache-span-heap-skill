@@ -1,0 +1,15 @@
+{
+  "name": "genpark-tcmalloc-thread-cache-span-heap-skill",
+  "version": "1.0.0",
+  "description": "TCMalloc thread-caching allocator architecture implementing thread-local freelists, central cache synchronization, and page heap span coalescing.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "tcmalloc",
+    "thread-cache",
+    "memory-management",
+    "page-heap"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
